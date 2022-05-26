@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"BRITANNICA",
+  "author":"Britannica",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.britannica.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
