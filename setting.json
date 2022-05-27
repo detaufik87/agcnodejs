@@ -38,6 +38,21 @@
   ],
   "inject-element-head":[
     {
+  "name-element":"meta",
+  "data-attribute":[
+    {
+      "name-attribute":"name",
+      "value-attribute":"google-site-verification"
+    },
+    {
+      "name-attribute":"content",
+      "value-attribute":"6d40sIKoWSk5KnYcTKRnlyCjL21yphZtlb-a1VuiTNk"
+    }
+  ],
+  "data-innerHTML":"",
+  "position":"start"
+},
+    {
       "name-element":"meta",
       "data-attribute":[
         {
